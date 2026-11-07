@@ -3,9 +3,6 @@
 
 **Department of Electrical and Computer Engineering**
 
-## Line Follower Lab
-The Line Follower lab interfaces with the following:
-
 ## Overview
 The purpose of the Line Follower lab is to develop an autonomous robot using the TI-RSLK MAX and MSP432P401R LaunchPad. The robot uses the QTRX Reflectance Sensor Array to detect a black line on a white surface and control the DC motors to follow the line. The main objective is to implement a line-following controller that allows the robot to navigate through a maze, make steering corrections, explore a T-section, return to the starting point and reach the dead end. A finite state machine (FSM) can be used to manage the robot's navigation and decision making.
 ## Components Used
