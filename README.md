@@ -12,7 +12,7 @@ The purpose of the Line Follower lab is to develop an autonomous robot using the
 
 - TI MSP432P401R LaunchPad
 - TI-RSLK MAX Robot Chassis and Motor Board
-- 8-Channel QTRX Reflectance Sensor Array - [Product Link](https://www.pololu.com/product/3672)
+- 8-Channel QTRX Reflectance Sensor Array 
 - DC Motors and Motor Drivers
 - User LEDs of the TI MSP432 LaunchPad
 - Six AA Batteries
