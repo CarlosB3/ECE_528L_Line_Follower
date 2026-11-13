@@ -101,6 +101,9 @@ After exploring the intersection, the robot returned along the path to the start
 
 During initial testing, the robot did not consistently correct its position when moving slightly left or right of the path. The motor controller was adjusted by modifying the PWM values based on the sensor readings.
 
+## Video Link
+https://youtube.com/shorts/b7VD7udaSd8
+
 ## References
 
 - ECE 528/L, Fall 2026, Lab 3: Line Follower, Section 4.7, pages 19–21.
